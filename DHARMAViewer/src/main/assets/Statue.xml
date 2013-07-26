@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <model>
+        <!-- Data global to the model -->
+        <title>Statue</title>
+        <radius>1.4253172</radius>
+        <view>0.809163, 0.418595, 0.412351, 259.595276</view>
+        <center>0.0, 0.0, 0.0</center>
+        <packagepath>statue</packagepath>
+        <container>
+            <mesh>
+                <!-- Data for a mesh (points, texture and transformation) -->
+                <texture>bondstatue.jpg</texture>
+                <points>bondstatue-p.dat</points>
+                <indexes>bondstatue-i.dat</indexes>
+                <texturecoords>bondstatue-i.dat</texturecoords>
+                <numberpoints>78834</numberpoints>
+                <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+            </mesh>
+        </container>
+    </model>
+</data>
