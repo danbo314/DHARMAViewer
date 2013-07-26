@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:clickable="true">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="About Current Model"
+                android:textColor="#FFFFFF"
+                android:id="@+id/infoTitle"
+                android:layout_gravity="center"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Info about this model..."
+                android:id="@+id/infoWriteUp"
+                android:textColor="#FFFFFF"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:padding="5dp"/>
+</LinearLayout><!-- From: /Users/danbo/AndroidStudioProjects/DHARMAViewer-Android-master/DHARMAViewer/src/main/res/layout/info.xml -->

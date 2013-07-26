@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+  <model>
+    <title>Bond Hall (Small)</title>
+    <radius>8</radius>
+    <view>1.0, 0.0, 0.0, 270.0</view>
+    <center>-0.00582815, 11.688826, 2.2296445</center>
+    <packagepath>bondhalltest</packagepath>
+    <container>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>19604</numberpoints>
+          <numberindexes>108120</numberindexes>
+          <texture>BondHallTest1.jpg</texture>
+          <points>BondHallTest-0-0.dat</points>
+          <indexes>BondHallTest-0-0-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>14838</numberpoints>
+          <numberindexes>87330</numberindexes>
+          <texture>BondHallTest0.jpg</texture>
+          <points>BondHallTest-0-1.dat</points>
+          <indexes>BondHallTest-0-1-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>15354</numberpoints>
+          <numberindexes>86790</numberindexes>
+          <texture>BondHallTest2.jpg</texture>
+          <points>BondHallTest-0-2.dat</points>
+          <indexes>BondHallTest-0-2-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>3450</numberpoints>
+          <numberindexes>19959</numberindexes>
+          <texture>BondHallTest4.jpg</texture>
+          <points>BondHallTest-0-3.dat</points>
+          <indexes>BondHallTest-0-3-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>4896</numberpoints>
+          <numberindexes>26994</numberindexes>
+          <texture>BondHallTest5.jpg</texture>
+          <points>BondHallTest-0-4.dat</points>
+          <indexes>BondHallTest-0-4-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>1927</numberpoints>
+          <numberindexes>8844</numberindexes>
+          <texture>BondHallTest9.jpg</texture>
+          <points>BondHallTest-0-5.dat</points>
+          <indexes>BondHallTest-0-5-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>4080</numberpoints>
+          <numberindexes>23550</numberindexes>
+          <texture>BondHallTest13.jpg</texture>
+          <points>BondHallTest-0-6.dat</points>
+          <indexes>BondHallTest-0-6-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>5700</numberpoints>
+          <numberindexes>30798</numberindexes>
+          <texture>BondHallTest14.jpg</texture>
+          <points>BondHallTest-0-7.dat</points>
+          <indexes>BondHallTest-0-7-index.dat</indexes>
+        </mesh>
+        <mesh>
+          <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+          <numberpoints>16463</numberpoints>
+          <numberindexes>93081</numberindexes>
+          <texture>BondHallTest15.jpg</texture>
+          <points>BondHallTest-0-8.dat</points>
+          <indexes>BondHallTest-0-8-index.dat</indexes>
+        </mesh>
+    </container>
+    <cloud>
+      <transformmatrix>1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0</transformmatrix>
+      <pointscale>2.0</pointscale>
+      <numbercolorpoints>218</numbercolorpoints>
+      <colorpoints>BondHallTestPoints-0.dat</colorpoints>
+    </cloud>
+  </model>
+</data>
